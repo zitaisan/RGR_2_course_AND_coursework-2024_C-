@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RGR_2024_2d_course/1.0.0": {
+        "runtime": {
+          "RGR_2024_2d_course.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RGR_2024_2d_course/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

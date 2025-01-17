@@ -1,0 +1,15 @@
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\bin\Debug\net6.0\RGR_2024_2d_course.exe
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\bin\Debug\net6.0\RGR_2024_2d_course.deps.json
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\bin\Debug\net6.0\RGR_2024_2d_course.runtimeconfig.json
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\bin\Debug\net6.0\RGR_2024_2d_course.dll
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\bin\Debug\net6.0\RGR_2024_2d_course.pdb
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\obj\Debug\net6.0\RGR_2024_2d_course.csproj.AssemblyReference.cache
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\obj\Debug\net6.0\RGR_2024_2d_course.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\obj\Debug\net6.0\RGR_2024_2d_course.AssemblyInfoInputs.cache
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\obj\Debug\net6.0\RGR_2024_2d_course.AssemblyInfo.cs
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\obj\Debug\net6.0\RGR_2024_2d_course.csproj.CoreCompileInputs.cache
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\obj\Debug\net6.0\RGR_2024_2d_course.dll
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\obj\Debug\net6.0\refint\RGR_2024_2d_course.dll
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\obj\Debug\net6.0\RGR_2024_2d_course.pdb
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\obj\Debug\net6.0\RGR_2024_2d_course.genruntimeconfig.cache
+C:\Users\taisi\source\repos\RGR_2024_2d_course\RGR_2024_2d_course\obj\Debug\net6.0\ref\RGR_2024_2d_course.dll
